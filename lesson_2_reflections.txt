@@ -21,3 +21,7 @@ Em que se difere a área de preparação do diretório de trabalho e do reposit�
  Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
 
  Fill in your answer here 
+
+ Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+
+ Fill in your answer here 
